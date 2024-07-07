@@ -8,3 +8,4 @@
     </main>
 </asp:Content>
 <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
