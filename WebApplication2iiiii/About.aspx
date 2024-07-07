@@ -7,3 +7,4 @@
         <p>Use this area to provide additional information.</p>
     </main>
 </asp:Content>
+<asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
